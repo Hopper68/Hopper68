@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Jeff Hopp
+
+🔭 I’m currently working on setting up a new profile and posting a series of web and data projects I've been working on.  I've completed a hybrid of courses to learn Python and boost my skillset to activate pursuit of opportunities in the realm of data science and gen AI.
+
+More to come...
+
 
 <!--
 **Hopper68/Hopper68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
